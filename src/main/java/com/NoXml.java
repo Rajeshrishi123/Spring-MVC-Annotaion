@@ -10,4 +10,6 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @ComponentScan(basePackages = "com")
 public class NoXml {
 
+  //This is source file 
+
 }
